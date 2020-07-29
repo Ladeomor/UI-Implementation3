@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UI Implementation3</string>
+    <string name="florida_usa">Florida, USA</string>
+    <string name="blue_kia_cerato">Blue Kia Cerato</string>
+    <string name="from_199_day">From $199/day</string>
+    <string name="_18_deals">18 deals</string>
+    <string name="choose_a_car">Choose a car</string>
+    <string name="todo">TODO</string>
+    <string name="_4_5">4.5</string>
+</resources>
